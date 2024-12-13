@@ -1,0 +1,15 @@
+D:\AssessmentMU\bin\Debug\net8.0\AssessmentMU.exe
+D:\AssessmentMU\bin\Debug\net8.0\AssessmentMU.deps.json
+D:\AssessmentMU\bin\Debug\net8.0\AssessmentMU.runtimeconfig.json
+D:\AssessmentMU\bin\Debug\net8.0\AssessmentMU.dll
+D:\AssessmentMU\bin\Debug\net8.0\AssessmentMU.pdb
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.AssemblyInfoInputs.cache
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.AssemblyInfo.cs
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.csproj.CoreCompileInputs.cache
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.sourcelink.json
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.dll
+D:\AssessmentMU\obj\Debug\net8.0\refint\AssessmentMU.dll
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.pdb
+D:\AssessmentMU\obj\Debug\net8.0\AssessmentMU.genruntimeconfig.cache
+D:\AssessmentMU\obj\Debug\net8.0\ref\AssessmentMU.dll
