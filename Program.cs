@@ -28,4 +28,4 @@ foreach (string word in origStr)
         filteredStr[j++] = word;
     }
 }
-Console.WriteLine($"Строки, длина которых 3 и меньше символов: [{string.Join(", ", filteredStr)}]");// Выводим результат
+Console.WriteLine($"Строки, длина которых 3 и меньше символов: [{string.Join(", ", filteredStr)}]");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssessmentMU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4541fa72cb39b061d743674b4a444d8a51d905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b061b42cc87c6979559469eab10b57db991c54ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssessmentMU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssessmentMU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
